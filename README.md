@@ -11,9 +11,9 @@
 <div align="start">
  
 
-🔭 I’m currently working on a marketplace
+🔭 I’m currently working on a online mock platform
 
-🌱 I’m currently learning Nextjs and Typescript
+🌱 I’m currently learning Python
 
  </div>
  
